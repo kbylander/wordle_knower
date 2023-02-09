@@ -31,10 +31,12 @@ python wordle.py e o**** operA,oAtly
 
     and the game goes on. 
 
-Note that the script can be optimised drastically to improve computation time, also not fully tested for bugs.
-
 Swedish dictionary at:
 https://github.com/titoBouzout/Dictionaries/blob/master/Swedish.dic 
 
 English dictionary:
 https://github.com/dwyl/english-words/blob/master/words.txt
+
+
+Note that the script can be optimised drastically to improve computation time, also not fully tested for bugs.
+Also if time given, print final list of word sorted on word or charachter frequency of given language. 
