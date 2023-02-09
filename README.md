@@ -7,7 +7,7 @@ Note that some words don't exist in the lexicons, and others have a different in
 
 To run: Make a guess in ordel.se or wordle. 
 
-for example in english: 
+for example in english
     1st guess: opera
     O is at the correct place
     a is correct but in wrong place
@@ -22,10 +22,5 @@ for example in english:
     python wordle.py e o**** operA,oAtly
 
     and the game goes on. 
-
-sys.argv[1] : language (e for english, s for swedish)
-sys.argv[2] : [correct words with * where unknown]
-sys.argv[3] : [guessed words separated by comma, unknown letters uppercase,correct leters lowercase]
-
 
 Note that the script can be optimised drastically to improve computation time.
