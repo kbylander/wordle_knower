@@ -2,9 +2,11 @@
 
 
 A unintuitive solution for wordle game, requires you to download a lexicon of words as a textfile, see words.txt and sve_ord.txt
+
 Note that some words don't exist in the lexicons, and others have a different inflection and will not be found. 
 
 To run: Make a guess in ordel.se or wordle. 
+
 for example in english: 
     1st guess: opera
     O is at the correct place
