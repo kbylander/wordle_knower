@@ -33,7 +33,7 @@ python wordle.py e o**** operA,oAtly
 
 Note that the script can be optimised drastically to improve computation time, also not fully tested for bugs.
 
-Find swedish dictionary at:
+Swedish dictionary at:
 https://github.com/titoBouzout/Dictionaries/blob/master/Swedish.dic 
 
 English dictionary:
